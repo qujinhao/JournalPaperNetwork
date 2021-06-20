@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+		.detail-right{
+			width: 70%;
+			position: absolute;
+             top: 72px;
+             left: 24%;
+			
+		}
+	
+		.cart-title{
+			font-size: 15px;
+		}
+		.cart-pic{
+			display: inline-block;
+			margin-right:0;		
+		}
+		.cart-infowarp{
+			margin-left: 50px;
+			float: left;
+			width: 40%;
+		}
+		.cart-infowarp1{
+			width:100%;
+			height:30px;
+		}
+		
+		.cart-infotitle{
+			display:inline-block;
+			
+		}
+		.cart-info{
+			 display:inline-block;
+		}
+		.cart-instruction{
+			float: right;
+			width:54%;
+		}
+		.cart{
+			margin-top: 15px;
+		}
+       .picx{
+	       float:right;
+	        width: 220px;
+		   height: 250px;
+         }

@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.nav_btn input {
+  background-image: url("../img/search.png");
+  background-repeat: no-repeat; /*background-image不会重复*/
+  float: right;
+  border: none;
+  height: 28px;
+  line-height: 28px;
+  background-position: center; /*设置背景图像的起始位置*/
+  width: 26px;
+  background-color: transparent; /*设置为透明*/
+}

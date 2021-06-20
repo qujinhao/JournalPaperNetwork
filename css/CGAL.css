@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+.CGALright {
+    float: left;
+    width: 81.5%;
+	height: 700px;
+    border: 1px solid #eee;
+}
+.page1 {
+	clear: both;
+    width: 100%;
+	padding-left: 34%;
+	
+}
+	.page1 ul{
+		width: 100%;
+		padding-top: 30px;
+	}
+.page1 ul li a {
+    float: left;
+	width: 60px;
+	height: 20px;
+	text-decoration: none;
+	border: 1px solid #969696;
+	line-height: 20px;
+	margin-left: 5px;
+	text-align: center;
+	color: #79BDE4;
+}
+
+.CGALright-title ul li a {
+    float: left;
+    text-decoration: none;
+    color: #01ADDF;
+}
+.CGALright-title ul li {
+    margin-left: 5px;
+    line-height: 40px;
+}
+.CGALright-title ul {
+    border: 1px solid #eee;
+}
+.CGALright-title {
+    width: 100%;
+    height: 40px;
+    background-color: #F5F5F5;
+    border-left: 3px solid #01ADDF;
+}
+	.case-box{
+		width: 100%;
+		clear: both;
+	}
+	.case-pic{
+		width: 100%;
+	}

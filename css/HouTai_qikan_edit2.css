@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+	.qikan_edit_head{
+		width: 100%;
+		border: 1px solid #FFFFFF;
+		height: 40px;
+		line-height: 40px;
+		background: white;
+	}
+	.info-all{
+		width: 100%;
+		border: 1px solid #FFFFFF;
+		background: white;
+		margin-top: 10px;
+	}
